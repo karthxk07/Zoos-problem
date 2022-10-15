@@ -1,18 +1,18 @@
 # Zoos-problem
 Solution to ['Zoos' Hacker-earth problem](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)
 
-## Problem
--You are required to enter a word that consists of  and  that denote the number of Zs and Os respectively. The input word is considered similar to word zoo if .
+- ## Problem
+  - You are required to enter a word that consists of  and  that denote the number of Zs and Os respectively. The input word is considered similar to word zoo if .
 
-Determine if the entered word is similar to word zoo.
+    Determine if the entered word is similar to word zoo.
 
-For example, words such as zzoooo and zzzoooooo are similar to word zoo but not the words such as zzooo and zzzooooo.
+    For example, words such as zzoooo and zzzoooooo are similar to word zoo but not the words such as zzooo and zzzooooo.
 
-### Input format
+- ### Input format
 
--First line: A word that starts with several Zs and continues by several Os.
-Note: The maximum length of this word must be .
+  - First line: A word that starts with several Zs and continues by several Os.
+    Note: The maximum length of this word must be .
 
-### Output format
+- ### Output format
 
--Print Yes if the input word can be considered as the string zoo otherwise, print No.
+  - Print Yes if the input word can be considered as the string zoo otherwise, print No.
