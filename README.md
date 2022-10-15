@@ -1,5 +1,6 @@
 # Zoos-problem
-Solution for Hacker earth problem
+Solution to a Hacker-earth problem
+https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/
 
 ## Problem
 You are required to enter a word that consists of  and  that denote the number of Zs and Os respectively. The input word is considered similar to word zoo if .
