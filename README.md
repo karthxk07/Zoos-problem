@@ -8,10 +8,10 @@ Determine if the entered word is similar to word zoo.
 
 For example, words such as zzoooo and zzzoooooo are similar to word zoo but not the words such as zzooo and zzzooooo.
 
-### Input format
+##### Input format
 
 First line: A word that starts with several Zs and continues by several Os.
 Note: The maximum length of this word must be .
-### Output format
+##### Output format
 
 Print Yes if the input word can be considered as the string zoo otherwise, print No.
